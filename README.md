@@ -1,6 +1,6 @@
 # flutter_complete_guide
 
-Quiz app to learn the basics of flutter, from Academind Flutter course.
+Quiz app to learn the basics of flutter, from Academind Flutter git puscourse.
 
 ## Getting Started
 
