@@ -1,6 +1,6 @@
 # flutter_complete_guide
 
-A new Flutter project.
+Quiz app to learn the basics of flutter, from Academind Flutter course.
 
 ## Getting Started
 
